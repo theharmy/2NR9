@@ -1,4 +1,4 @@
-TwoNr9 (2NR9) is a minimalistic ergonomic 20% Keyboard. 
+# TwoNr9 (2NR9) is a minimalistic ergonomic 20% Keyboard. 
 
 ## IMPORTANT 
 The BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED HOTSWAP SOCKETS.  
@@ -24,7 +24,7 @@ The BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED 
 ## Pictures 
 
 [Pictures by Purox/Nex](https://ncxy.de/)
-![[2NR9.png]]![[2NR9_2.png]]
+![2NR9](assets/2NR9.png)![2NR9_2](assets/2NR9_2.png)
 
 ### Acknowledgements
 - Big Thanks and Much love to 
