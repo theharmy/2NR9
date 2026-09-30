@@ -14,10 +14,10 @@
 - Switches: Choc V2 Hotswap 
 - MCU: N!N (or Clones)
 - battery: 301230 3.7V 110mAh Lipo Battery
-  - only this one works
+  - only this one works due to size Constraints.
 - Designed Together with [Purox/Nex](https://ncxy.de/)
 
-### IMPORTANT 
+### Note 
 ~~BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED HOTSWAP SOCKETS.~~
 
 The Pads for the pinky and bottom middle finger might look odd due to small changes in size, that prevents a bodge wire and should not influence the functionality. 
