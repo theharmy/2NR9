@@ -12,6 +12,8 @@ The BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED 
 - The Case offers hidden Magnet sockets for Magsafe Compability
 - Switches: Choc V2 Hotswap 
 - MCU: N!N (or Clones)
+- battery: 301230 3.7V 110mAh Lipo Battery
+  - only this one works
 - Designed Together with [Purox/Nex](https://ncxy.de/)
 
 ### Files In this Repo 
