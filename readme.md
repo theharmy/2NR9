@@ -5,7 +5,10 @@
 
 
 ## IMPORTANT 
-The BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED HOTSWAP SOCKETS.  
+~~BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED HOTSWAP SOCKETS.  ~~
+
+The Pads for the pinky and bottom middle finger might look odd due to small changes in size, that prevents a bodge wire and should not influence the functionality. 
+
 
 ## Features: 
 - 18 Keys with an Minimalistic  Design and Case
