@@ -1,5 +1,9 @@
 # TwoNr9 (2NR9) is a minimalistic ergonomic 20% Keyboard. 
 
+[Pictures by Purox/Nex](https://ncxy.de/)
+![2NR9](assets/2NR9.png)![2NR9_2](assets/2NR9_2.png)
+
+
 ## IMPORTANT 
 The BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED HOTSWAP SOCKETS.  
 
@@ -21,10 +25,6 @@ The BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED 
 	- with [SRHT by Apfel](https://codeberg.org/apfel)  (A Germlish 2Alpha Layout with Bigrams)
 	- and many features of [Urob's ZMK Config](https://github.com/urob/zmk-config) 
 
-## Pictures 
-
-[Pictures by Purox/Nex](https://ncxy.de/)
-![2NR9](assets/2NR9.png)![2NR9_2](assets/2NR9_2.png)
 
 ### Acknowledgements
 - Big Thanks and Much love to 
