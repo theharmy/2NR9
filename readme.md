@@ -4,11 +4,9 @@
 ![2NR9](assets/2NR9.png)![2NR9_2](assets/2NR9_2.png)
 
 
-## IMPORTANT 
-~~BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED HOTSWAP SOCKETS.  ~~
-
-The Pads for the pinky and bottom middle finger might look odd due to small changes in size, that prevents a bodge wire and should not influence the functionality. 
-
+## Files In this Repo 
+- The PROD files as ZIP as well as a folder, the Kicad PCB File 
+- CASE (To-Do)
 
 ## Features: 
 - 18 Keys with an Minimalistic  Design and Case
@@ -19,9 +17,10 @@ The Pads for the pinky and bottom middle finger might look odd due to small chan
   - only this one works
 - Designed Together with [Purox/Nex](https://ncxy.de/)
 
-### Files In this Repo 
-- The PROD files as ZIP as well as a folder, the Kicad PCB File 
-- CASE (To-Do)
+### IMPORTANT 
+~~BOTTOM MIDDLE FINGER AND THE PINKY NEED A BODGE WIRE DUE TO WRONGLY FLIPPED HOTSWAP SOCKETS.~~
+
+The Pads for the pinky and bottom middle finger might look odd due to small changes in size, that prevents a bodge wire and should not influence the functionality. 
 
 
 ## ZMK Config: 
